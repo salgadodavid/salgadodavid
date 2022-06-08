@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Salgado</h1>
-<h3 align="center">A passionate frontend developer in the Washington DC - Baltimore Area</h3>
+<h3 align="center">A Software Engineer in the Washington DC - Baltimore Area</h3>
 
 - 🌱 I’m currently learning **Node.js, and React**
 
