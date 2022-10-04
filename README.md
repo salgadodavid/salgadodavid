@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Salgado</h1>
 <h3 align="center">A passionate frontend developer in the Washington DC - Baltimore Area</h3>
 
-- 🌱 I’m currently learning **Node.js,**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Javascript**
 
